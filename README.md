@@ -1,4 +1,4 @@
-# Tinndog_Bootstrap_HTML_CSS
+# Tinndog
 
 A beautiful HTML/CSS Bootstrap site
 
